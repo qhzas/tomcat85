@@ -1,0 +1,6 @@
+#Tue, 11 Jul 2017 08:42:48 +0800
+
+info.app.version=0.1
+info.app.name=myapp
+grails.env=production
+info.app.grailsVersion=3.3.0.RC1
